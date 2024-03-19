@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="com.bigossp:bigo-ads:2.7.2"/>
+    </androidPackages>
+    <iosPods>
+        <iosPod name="AnyThinkiOS/AnyThinkBigoAdapter" version="6.1.74" />
+    </iosPods>
+</dependencies>

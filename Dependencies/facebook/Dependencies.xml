@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="com.facebook.android:audience-network-sdk:6.12.0"/>
+        <androidPackage spec="androidx.annotation:annotation:1.0.0"/>
+    </androidPackages>
+    <iosPods>
+        <iosPod name="AnyThinkiOS/AnyThinkFacebookAdapter" version="6.1.74" />
+    </iosPods>
+</dependencies>

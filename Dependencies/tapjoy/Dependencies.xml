@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <repositories>
+            <repository>https://sdk.tapjoy.com/</repository>
+        </repositories>
+        <androidPackage spec="com.tapjoy:tapjoy-android-sdk:12.10.0@aar"/>
+        <androidPackage spec="com.google.android.gms:play-services-ads-identifier:18.0.1"/>
+    </androidPackages>
+    <iosPods>
+        <iosPod name="AnyThinkiOS/AnyThinkTapjoyAdapter" version="6.1.74" />
+    </iosPods>
+</dependencies>

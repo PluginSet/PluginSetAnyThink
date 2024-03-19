@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="net.kidoz.sdk:kidoz-android-native:8.9.7"/>
+        <androidPackage spec="org.greenrobot:eventbus:3.2.0"/>
+    </androidPackages>
+    <iosPods>
+        <iosPod name="AnyThinkiOS/AnyThinkKidozAdapter" version="6.1.74" />
+    </iosPods>
+</dependencies>

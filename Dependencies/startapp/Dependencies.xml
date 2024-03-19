@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="com.startapp:inapp-sdk:4.10.7"/>
+    </androidPackages>
+    <iosPods>
+        <iosPod name="AnyThinkiOS/AnyThinkStartAppAdapter" version="6.1.74" />
+    </iosPods>
+</dependencies>

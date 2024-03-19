@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="com.my.target:mytarget-sdk:5.15.4"/>
+    </androidPackages>
+    <iosPods>
+        <iosPod name="AnyThinkiOS/AnyThinkMyTargetAdapter" version="6.1.74" />
+    </iosPods>
+</dependencies>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <repositories>
+            <repository>https://fan-adn.github.io/nendSDK-Android-lib/library</repository>
+        </repositories>
+        <androidPackage spec="net.nend.android:nend-sdk:7.0.3"/>
+        <androidPackage spec="androidx.constraintlayout:constraintlayout:2.0.1"/>
+        <androidPackage spec="com.google.android.gms:play-services-ads-identifier:18.0.1"/>
+        <androidPackage spec="androidx.preference:preference:1.1.1"/>
+    </androidPackages>
+    <iosPods>
+        <iosPod name="AnyThinkiOS/AnyThinkNendAdapter" version="6.1.74" />
+    </iosPods>
+</dependencies>

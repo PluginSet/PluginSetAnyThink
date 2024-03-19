@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <repositories>
+            <repository>https://cboost.jfrog.io/artifactory/helium</repository>
+        </repositories>
+        <androidPackage spec="com.chartboost:chartboost-sdk:9.1.1"/>
+        <androidPackage spec="com.chartboost:helium:3.3.2"/>
+        <androidPackage spec="org.greenrobot:eventbus:3.2.0"/>
+        <androidPackage spec="com.google.android.gms:play-services-ads-identifier:18.0.1"/>
+        <androidPackage spec="com.google.android.gms:play-services-base:18.0.1"/>
+    </androidPackages>
+    <iosPods>
+        <iosPod name="AnyThinkiOS/AnyThinkChartboostAdapter" version="6.1.74" />
+    </iosPods>
+</dependencies>
